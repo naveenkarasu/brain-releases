@@ -8,13 +8,18 @@ This repository hosts Brain's **releases** only. The source code is private.
 
 ## Download
 
-No release has been published yet. Desktop installers will appear on the
-[Releases page](https://github.com/naveenkarasu/brain-releases/releases):
+Get the newest version from the
+[latest release](https://github.com/naveenkarasu/brain-releases/releases/latest):
 
-- **Windows:** `Brain-Setup-<version>.exe`
-- **macOS:** `Brain-<version>.dmg` (Apple Silicon and Intel)
+- **Windows:** `Brain-Setup-<version>.exe` installs for your user. Until the app
+  is code-signed, Windows may show a SmartScreen warning: choose
+  **More info → Run anyway**.
+- **macOS:** `Brain-<version>.dmg` for Apple Silicon and Intel. Until the app is
+  notarized, macOS blocks the first launch: open **System Settings → Privacy &
+  Security** and choose **Open Anyway**.
 
-The phone apps will be published on the App Store and Google Play.
+The desktop app checks here for updates. The phone apps will be published on
+the App Store and Google Play.
 
 ## More
 
